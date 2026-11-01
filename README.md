@@ -108,3 +108,20 @@ GitHub: [Arhaan-k20](https://github.com/Arhaan-k20)
 ---
 
 *Developed as an academic final-year project.*
+
+## Project Screenshots
+
+### Dashboard
+![Dashboard](SS/dashboard%20.png)
+
+### Principal Component Analysis (PCA)
+![PCA](SS/PCA.png)
+
+### K-Means Clustering
+![K-Means](SS/K_means.png)
+
+### Cluster Visualisation
+![K-Means Graph](SS/k-means%20graph%20visual.png)
+
+### Silhouette Score
+![Silhouette Score](SS/silhouette%20score.png)
